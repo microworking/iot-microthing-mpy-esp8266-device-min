@@ -1,0 +1,13 @@
+ampy --port COM3 put actionhandler.mpy
+ampy --port COM3 put actionrequest.mpy
+ampy --port COM3 put actionresponse.mpy
+ampy --port COM3 put boot.mpy
+ampy --port COM3 put buzzerhelper.mpy
+ampy --port COM3 put commonhelper.mpy
+ampy --port COM3 put config.mpy
+ampy --port COM3 put healthcheck.mpy
+ampy --port COM3 put httphandler.mpy
+ampy --port COM3 put main.mpy
+ampy --port COM3 put mqttservice.mpy
+ampy --port COM3 put umqttsimple.mpy
+ampy --port COM3 put urequests.mpy

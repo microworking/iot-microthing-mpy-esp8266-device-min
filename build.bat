@@ -1,0 +1,11 @@
+ampy --port COM3 put actionhandler.py
+ampy --port COM3 put actionrequest.py
+ampy --port COM3 put actionresponse.py
+ampy --port COM3 put boot.py
+ampy --port COM3 put commonhelper.py
+ampy --port COM3 put healthcheck.py
+ampy --port COM3 put httphandler.py
+ampy --port COM3 put main.py
+ampy --port COM3 put mqttservice.py
+ampy --port COM3 put umqttsimple.py
+ampy --port COM3 put urequests.py
